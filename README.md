@@ -1,0 +1,2 @@
+# spotifyacc
+Spotify Hesap Oluşturucu
